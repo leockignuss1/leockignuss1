@@ -6,14 +6,6 @@
 🚀 Em busca de aprendizado contínuo e novos desafios
 </p>
 ---
-## 🎓 Formação Acadêmica
-
-**Universidade Estadual do Norte do Paraná (UENP)**  
-Bacharelado em Ciência da Computação  
-🗓️ **Período:** 1º ano (2025)  
-📍 **Localização:** Bandeirantes - PR
----
-
 ## 🛠️ Tecnologias que estou aprendendo
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
