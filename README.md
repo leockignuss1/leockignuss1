@@ -5,7 +5,9 @@
 🌐 Apaixonado por Web Design e Criação de Sites<br>
 🚀 Em busca de aprendizado contínuo e novos desafios
 </p>
+
 ---
+
 ## 🛠️ Tecnologias que estou aprendendo
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
