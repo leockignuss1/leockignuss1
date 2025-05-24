@@ -5,7 +5,13 @@
 🌐 Apaixonado por Web Design e Criação de Sites<br>
 🚀 Em busca de aprendizado contínuo e novos desafios
 </p>
+---
+## 🎓 Formação Acadêmica
 
+**Universidade Estadual do Norte do Paraná (UENP)**  
+Bacharelado em Ciência da Computação  
+🗓️ **Período:** 1º ano (2025)  
+📍 **Localização:** Bandeirantes - PR
 ---
 
 ## 🛠️ Tecnologias que estou aprendendo
