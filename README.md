@@ -34,7 +34,3 @@
 Estou desenvolvendo projetos focados em **Web Design** e **Criação de Sites**, explorando boas práticas de layout, responsividade e usabilidade. Busco aplicar o que aprendo na faculdade em projetos reais e criativos.
 
 ---
-
-<div align="center">
-  Feito com 💙 por Leonardo Rodrigues de Souza
-</div>
